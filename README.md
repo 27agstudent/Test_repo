@@ -5,7 +5,7 @@
 
 <h1>A brief overview on this program:</h1>
 <hr>
-<ul>A <ins>website</ins> to <i>serve</i> <big>various</big> <mark>utilities.</mark>
+<ul>A <ins>website</ins> to <b>serve</b> <big><b>various</b></big> <mark>utilities.</mark>
 <li>New to GitHub.😺</li>
 <li>Currently on development.🖥 </li>
 </ul>
