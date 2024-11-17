@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 
 <html>
-<head>
-<title>ReadME: My website development project</title>
-</head>
 <body>
 
 <h1>A brief overview on this program:.</h1>
