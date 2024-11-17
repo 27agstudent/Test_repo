@@ -3,15 +3,17 @@
 <html>
 <body>
 
-<h1>A brief overview on this program:</h1>
+
+
+<ul><h1>About this repo 🐱:</h1>
 <hr>
-<ul>A <ins>website</ins> to <b>serve</b> <i>various</i> <mark>utilities.</mark>
-<li>New to GitHub.😺</li>
+<li>A <ins>website</ins> to <b>serve</b> <i>various</i> <mark>utilities.</mark></li>
+<li>Written in HTML, CSS & Javascript.</li>
 <li>Currently on development.🖥 </li>
 </ul>
 
-<ul>About developer:
-<li>Learning Python, HTML, CSS & Javascript.🧑‍🎓📖</li></ul>
+<ul><h1>About developer:</h1>
+<li>Learning Python, HTML, CSS & Javascript.📖</li></ul>
 <br>
 </html>
 
