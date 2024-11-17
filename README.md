@@ -3,7 +3,7 @@
 <html>
 <body>
 
-<h1>A brief overview on this program:.</h1>
+<h1>A brief overview on this program:</h1>
 <hr>
 <ul>A <ins>website</ins> to <i>serve</i> <big>various</big> <mark>utilities.</mark>
 <li>New to GitHub.😺</li>
