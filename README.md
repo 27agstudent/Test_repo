@@ -12,7 +12,7 @@
 <li>Currently on development.🖥 </li>
 </ul>
 
-<ul><h1>About developer:</h1>
+<ul><h1>About developer 🧑‍💻:</h1>
 <li>Learning Python, HTML, CSS & Javascript.📖</li></ul>
 <br>
 </html>
