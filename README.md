@@ -10,8 +10,4 @@
 <li>Currently on development 🖥. </li>
 </ul>
 
-<ul><h1>About developer 🧑‍💻:</h1>
-<li>Learning Python, HTML, CSS & Javascript 📖.</li>
-<li>New to GitHub 🐱.</li></ul>
-<br>
 </html>
